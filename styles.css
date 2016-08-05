@@ -1,0 +1,7 @@
+.demo {
+    counter-reset: list;
+}
+
+.demo li:before {
+    content: counter(list);
+}
