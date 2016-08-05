@@ -1,0 +1,32 @@
+body {
+    background-image: url("https://lh3.googleusercontent.com/-7H8I1YbwTb4/Vghh6mPMAAI/AAAAAAAAAFQ/mSICowp1sUc/w320-h240/4679972-7231735586-Vorte.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+h2 {
+    color: white;
+}
+
+.btn {
+  -webkit-border-radius: 51;
+  -moz-border-radius: 51;
+  border-radius: 51px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #ff0000;
+  padding: 40px 7px 40px 15px;
+  border: solid #757575 6px;
+  text-decoration: none;
+  margin-left: 42%;
+  display: inline-block;
+}
+
+.btn:hover {
+  background: #b80000;
+  text-decoration: none;
+}
